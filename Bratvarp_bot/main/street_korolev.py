@@ -6,7 +6,7 @@ from button_city import street_lenin,street_oct,street_rain
 
 
 
-bot = telebot.TeleBot('7305613783:AAHgY5UJeBwVJqu9WL9U3Ng26Ydz4li4PH8')
+bot = telebot.TeleBot('')
 
 def street_korolev(message):
     db = sqlite3.connect("C:/Users/dimap/Desktop/Bratvarp_bot/main/Database/users.db")
