@@ -4,7 +4,7 @@ import time
 
 from button_city import *
 
-bot = telebot.TeleBot('7305613783:AAHgY5UJeBwVJqu9WL9U3Ng26Ydz4li4PH8')
+bot = telebot.TeleBot('')
 
 def street_mytischis(message):
     db = sqlite3.connect("C:/Users/dimap/Desktop/Bratvarp_bot/main/Database//users.db")
