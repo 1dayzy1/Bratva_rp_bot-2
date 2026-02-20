@@ -3,7 +3,7 @@ import sqlite3
 
 
 
-bot = telebot.TeleBot('7305613783:AAHgY5UJeBwVJqu9WL9U3Ng26Ydz4li4PH8')
+bot = telebot.TeleBot('')
 
 
 
